@@ -1,0 +1,11 @@
+@media(max-width:575px){
+
+    .hero-sec-xs{
+        padding: 0;
+    }
+}
+@media(min-width:576px){
+    .hero-sec-s{
+        padding: 0;
+    }
+}
